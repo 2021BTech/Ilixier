@@ -70,14 +70,14 @@ TABLE OF CONTENTS:-
 ================================================================*/
 /* --------------- variable --------------- */
 :root {
-  --color-main:#0066ff;
-  --color-primary:#0066ff;
-  --color-secondary:#02b5ff;
-  --color-blue2: #4a00e1;
-  --color-blue4: #5842bc;
-  --color-blue5: #157efb;
-  --color-blue6: #6640f4;
-  --color-blue7: #8169f1;
+  --color-main:#028391;
+  --color-primary:#028391;
+  --color-secondary:#028391;
+  --color-blue2: #028391;
+  --color-blue4: #028391;
+  --color-blue5: #028391;
+  --color-blue6: #028391;
+  --color-blue7: #028391;
   --color-lightBlue:#15f1ff;
   --color-darkBlue:#010049;
   --color-darkBlue2:#1f227d;
@@ -90,7 +90,7 @@ TABLE OF CONTENTS:-
   --color-yellowGreen:#cef54b;
   --color-gray:#eef4f8;
   --color-gray2:#f0eff5;
-  --color-main-grad: linear-gradient(to right, #0c3df4 0%, #02b5ff 100%);
+  --color-main-grad: linear-gradient(to right, #028391 0%, #028391 100%);
 }
 
 .color-main {
@@ -1824,9 +1824,9 @@ small.text {
   width: 150%;
   height: 100%;
   z-index: 1;
-  background: -webkit-gradient(linear, left top, right top, color-stop(10%, #0c3df4), color-stop(45%, #02b5ff), color-stop(#02b5ff), to(#0c3df4));
-  background: -o-linear-gradient(left, #0c3df4 10%, #02b5ff 45%, #02b5ff, #0c3df4);
-  background: linear-gradient(to right, #0c3df4 10%, #02b5ff 45%, #02b5ff, #0c3df4);
+  background: -webkit-gradient(linear, left top, right top, color-stop(10%, #028391), color-stop(45%, #028391), color-stop(#028391), to(#028391));
+  background: -o-linear-gradient(left, #028391 10%, #028391 45%, #028391, #028391);
+  background: linear-gradient(to right, #028391 10%, #028391 45%, #028391, #028391);
   -webkit-transition: all 0.3s ease;
   -o-transition: all 0.3s ease;
   transition: all 0.3s ease;
